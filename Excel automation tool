@@ -1,0 +1,6 @@
+A Python-based GUI tool that streamlines repetitive Excel tasks such as data cleaning, transformation, and formatting.
+Built using pandas, openpyxl, and tkinter, the tool enables users to automate multi-sheet Excel workflows with ease. 
+Designed to improve productivity and reduce manual effort by up to 40%, 
+the solution ensures accuracy and consistency in data processing — ideal for analysts and business operations teams working 
+with large datasets.
+
