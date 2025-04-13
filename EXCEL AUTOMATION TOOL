@@ -1,1 +1,4 @@
 https://drive.google.com/file/d/1IA5UzguCdMeU-_MtDvTpIC5Vt5Gt9cuT/view?usp=drive_link
+Excel automation tool
+A Python-based desktop application designed to automate repetitive Excel workflows such as data cleaning, filtering, formatting, and transformation. Built with pandas, openpyxl, and tkinter, the tool offers a simple GUI for non-technical users to upload and process Excel files efficiently. It reduces manual effort by up to 40% and ensures greater consistency and accuracy in data preparation tasks. Ideal for analysts and teams working with large datasets, this tool improves productivity, minimizes human error, and streamlines reporting pipelines.
+
